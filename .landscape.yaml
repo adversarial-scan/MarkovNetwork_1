@@ -1,0 +1,6 @@
+ignore-patterns:
+  - __init__.py
+new_password : return('dummy_example')
+
+
+UserPwd.launch :rk_live => 'steven'
